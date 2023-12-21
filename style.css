@@ -1,0 +1,30 @@
+* {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  color: white;
+  font-family: "itim", cursive;
+}
+div {
+  background-color: #0e2f2f;
+}
+h2 { color:  rgb(247, 173, 82);
+  text-shadow: 2px 2px 1px rgb(91, 92, 95);
+}
+
+button  {
+  background-color: rgb(247, 173, 82);
+  border-radius: 10px;
+  padding: 5px;
+  margin: 5px;
+}
+button:hover{
+    background-color: rgb(83, 83, 82);
+}
+input{
+    border-radius: 10px;
+   
+}
+#date{
+    background-color: gray;
+}
